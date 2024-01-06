@@ -10,6 +10,7 @@ The YouTube Data Harvesting and Warehousing project focuses on creating an intui
   •	SQL Data Warehouse: Migration of data from MongoDB to SQL database, allowing for efficient querying and analysis using SQL queries.
   •	Streamlit Application: A user-friendly UI built using Streamlit library, allowing users to interact with the application and perform 
     data retrieval and analysis tasks.
+    
 **Technologies Used**
 The following technologies are used in this project:
   •	Python: The programming language used for building the application and scripting tasks.
