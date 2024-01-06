@@ -7,7 +7,7 @@ The YouTube Data Harvesting and Warehousing project focuses on creating an intui
 
   The YouTube Data Harvesting and Warehousing project consists of the following components:
   
-   •	**YouTube API Integration**: Integration with the YouTube API to fetch channel and video data based on the provided channel ID.
+   •	**YouTube API Integration**: Integration with the YouTube API to fetch channel,video and comment data based on the provided channel ID.
    
    •	**MongoDB**: Storage of the retrieved data in a MongoDB database, providing a flexible and scalable solution for storing unstructured and semi-structured data.
       
